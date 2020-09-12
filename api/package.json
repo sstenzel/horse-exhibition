@@ -22,7 +22,7 @@
     "lodash-id": "^0.14.0",
     "lowdb": "^1.0.0",
     "morgan": "~1.9.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "node-uuid": "^1.4.8",
     "nodemon": "^1.18.10",
     "shortid": "^2.2.14",
